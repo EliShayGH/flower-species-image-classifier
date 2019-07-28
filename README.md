@@ -6,3 +6,38 @@ The image datasets were taken from the [Oxford 102 Category Flower Dataset](http
 Our models were tested by Facebook & Udacity teams, and 300 top students were granted a full scholarship based on their models' quality.<br/>
 For the diversity, Facebook decided that only one student from each country will be accepted!<br/>
 To my delight I managed to achieve ~94% accuracy on validation, and was chosen to receive the full scholarship as the Israeli representative
+
+![](header.png)
+
+
+## Table of Contents
+
+* [Load the Notebook](#load-the-notebook)
+* [Dependencies](#dependencies)
+* [Meta](#meta)
+* [Contributing](#contributing)
+
+## Load the Notebook
+
+* [Clone via Github](https://github.com/EliShayGH/flower-species-image-classifier.git)
+* [Download a zip file](https://github.com/EliShayGH/flower-species-image-classifier/archive/master.zip)
+
+## Dependencies:
+
+* [Anaconda Python 3](https://www.anaconda.com/)
+* Python libraries: PyTorch, numpy, pandas, matplotlib
+* [Jupyter Notebook](https://jupyter.org/)
+
+## Meta
+
+Eli Shay – El_mn123@hotmail.com
+
+[https://github.com/EliShayGH/flower-species-image-classifier](https://github.com/EliShayGH/flower-species-image-classifier)
+
+## Contributing
+
+1. Fork it (<https://github.com/EliShayGH/flower-species-image-classifier/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
